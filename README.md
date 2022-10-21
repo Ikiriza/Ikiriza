@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **collingensi5@gmail.com**
 
-- ⚡ Fun fact **I am very comic!**
+- ⚡  **I am a really quick learner!**
 😂
 
 <h3 align="left">Connect with me:</h3>
