@@ -10,6 +10,8 @@
 
 - 🔭 I’m currently working on **Cyber Security and Cloud Track**
 
+- You can Check out my certificates on https://www.credly.com/users/collingensi/badges 
+
 - 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Python , Artificial Intelligence, Data Science**
