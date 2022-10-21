@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/gensicollin" target="blank"><img src="https://img.shields.io/twitter/follow/Godschild?logo=twitter&style=for-the-badge" alt="ashabajasper" /></a> </p>
 
-- 🔭 I’m currently working on **AI and ML models**
+- 🔭 I’m currently working on **Cyber Security and Cloud Track**
 
 - 🌱 I’m currently learning **Data Science**
 
