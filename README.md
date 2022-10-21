@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ikiriza&label=Profile%20views&color=0e75b6&style=flat" alt="gensicollin" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gensicollin" target="blank"><img src="https://img.shields.io/twitter/follow/Godschild?logo=twitter&style=for-the-badge" alt="ashabajasper" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gensicollin" target="blank"><img src="https://img.shields.io/twitter/follow/gensicollin?logo=twitter&style=for-the-badge" alt="gensicollin" /></a> </p>
 
 - 🔭 I’m currently working on **Cyber Security and Cloud Track**
 
