@@ -18,7 +18,7 @@ FullStack Developer in Development
 * 🤝  I'm open to collaborating on Projects for beginners
 
 <a href="https://www.twitter.com/gensicollin" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mikaelmonteiro?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/Ikiriza?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/Ikiriza" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ikiriza?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/Ikiriza" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/Ikiriza?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
