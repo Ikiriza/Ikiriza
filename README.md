@@ -12,11 +12,10 @@ FullStack Developer in Development
 
 👨‍💻 I'm a Full Stack development student at Digital College in Fortaleza | Ceará | Brazil 🤩 I love technology, music, comedy, my friends and family 🤔 I have a lot of ideas in my mind and I'm interested in collaborating with the developer community
 
-* 🌍  I'm based in Fortaleza | Ceará |Brazil
-* ✉️  You can contact me at [mikaelmonteiro@gmail.com](mailto:mikaelmonteiro@gmail.com)
-* 🧠  I'm learning HTML, CSS, JAVASCRIPT, REACT, NODE, EXPRESS
+* 🌍  I'm based in Kampala | Uganda
+* ✉️  You can contact me at [collingensi5@gmail.com](mailto:collingensi5@gmail.com)
+* 🧠  I'm learning HTML, CSS, JAVASCRIPT, REACT, NODE, EXPRESS, R
 * 🤝  I'm open to collaborating on Projects for beginners
-* ⚡  My Rock Band is called "Joio" @joiooficial
 
 <a href="https://www.twitter.com/mikaelmonteiro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mikaelmonteiro?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -27,7 +26,6 @@ src="https://img.shields.io/twitch/status/mikaelmonteirodev?logo=twitchsx&style=
 ### Skills
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
