@@ -23,7 +23,7 @@ src="https://img.shields.io/twitter/follow/gensicollin?logo=twitter&style=for-th
 src="https://img.shields.io/github/followers/Ikiriza?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/Ikiriza" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/Ikiriza?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-### Skills
+### My Skills
 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
