@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 FullStack Developer in Development
 ----------------------------------
-<h1 align="center">A passionate Computer scientist and Cyber Security Analyst</h1>
+<h1 align="center">A passionate Computer scientist and Cyber Security Specialist</h1>
 
 👨‍💻 I'm a Full Stack development student at Digital College in Fortaleza | Ceará | Brazil 🤩 I love technology, music, comedy, my friends and family 🤔 I have a lot of ideas in my mind and I'm interested in collaborating with the developer community
 
