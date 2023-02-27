@@ -15,7 +15,7 @@ FullStack Developer in Development
 * 🌍  I'm based in Kampala | Uganda
 * ✉️  You can contact me at [collingensi5@gmail.com](mailto:collingensi5@gmail.com)
 * 🧠  I'm learning HTML, CSS, JAVASCRIPT, REACT, NODE, EXPRESS, R
-* 🤝  I'm open to collaborating on Projects for beginners
+* 🤝  I'm open to collaborating on projects, especially open source.
 
 <a href="https://www.twitter.com/gensicollin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/gensicollin?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
