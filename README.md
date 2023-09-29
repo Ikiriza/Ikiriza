@@ -6,7 +6,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gensi Collin Ikiriza
 =======================================================================================================================================
 ----------------------------------
-<h1 align="center">A passionate Computer scientist and Cyber Security Specialist</h1>
+<h1 align="center">A passionate Computer scientist and Cyber Security Enthusiast</h1>
 
 👨‍💻 🤩 I love technology, music, comedy, my friends and family 🤔 I have a lot of ideas in my mind and I'm interested in collaborating with the developer community
 
