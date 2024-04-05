@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ----------------------------------
 <h1 align="center">A passionate Computer scientist and Cyber Security Enthusiast</h1>
 
-👨‍💻 🤩 I love technology, music, comedy, my friends and family 🤔 I have a lot of ideas in my mind and I'm interested in collaborating with the developer community
+👨‍💻 🤩 I love technology, music, comedy, my friends and family 🤔 I'm interested in collaborating with the developer community
 
 * 🌍  I'm based in Kampala | Uganda
 * ✉️  You can contact me at [collingensi5@gmail.com](mailto:collingensi5@gmail.com)
